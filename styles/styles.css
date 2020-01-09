@@ -1,0 +1,32 @@
+@font-face {
+    src: url(1942.ttf);
+    font-family: handwriting;
+}
+
+h1 {
+    text-align: center;
+    margin: 10px 0px 2px 0px;
+    font-size: 35px;
+    font-family: handwriting;
+}
+
+#settings, * {
+    text-align: center;
+    margin: 7px 0px 6px 0px;
+    font-size: 17px;
+    font-family: handwriting;
+}
+
+#container-grid {
+    border: 5px solid 	#194F66;
+    height: 515px;
+    width: 515px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+#cell {
+    background-color: white;
+}
+
+
